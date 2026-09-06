@@ -1,0 +1,14 @@
+# Entorno y secretos
+.env
+*.local.php
+
+# Staging (vive en el servidor, no en el repo)
+/staging
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editor
+/.vscode
+/.idea
